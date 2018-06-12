@@ -1,4 +1,4 @@
-#hello-world repository
+# hello-world repository
 
 This is a repository related to the program **'Progamści dla Szczecina'**,
 more under [this link](https://programowanie.szczecin.pl)
